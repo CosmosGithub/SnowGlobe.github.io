@@ -1,0 +1,37 @@
+body{
+    background: rgb(125,101,150);
+    background: linear-gradient(147deg, rgba(125,101,150,1) 0%, rgba(69,37,67,1) 54%, rgba(0,0,0,1) 79%);
+
+    background-repeat:no-repeat;
+
+    color: #feecff;
+    text-align: center;
+}
+
+.people{
+    background-color: #2f2f2f;
+    
+    border-radius: 15px;
+    border-color: #262226;
+
+    width: 230px;
+    height: 260px;
+
+    padding: 10px;
+    margin: 10px;
+
+    list-style: none;
+    display: flex;
+}
+
+.people img{
+    border-radius: 15px;
+}
+
+.people a{
+    color: #feecff;
+
+    text-decoration: none;
+
+    font-size: 25px;
+}
