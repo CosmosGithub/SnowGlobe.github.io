@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.title{
+  text-align: center;
+  font-family: "Monaco", monospace;
+  font-weight: bold;
+  font-size: 150%;
+}
