@@ -24,16 +24,14 @@ html, body {
   font-size: 125%;
 }
 
-.body{
+.recipe {
+  background-color:#101010;
+  padding: 10px;
+
   text-align: center;
   width: 60%;
 
   margin: auto;
   width: 50%;
-  padding: 10px;
-}
-
-.recipe {
-  background-color:#101010;
   padding: 10px;
 }
