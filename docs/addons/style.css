@@ -33,12 +33,13 @@ html, body {
   padding: 0;
 }
 
-.recipe {
+.item {
   background-color:#101010;
   padding-left: 40px;
   padding-right: 40px;
 
   margin-top: 10px;
+  margin-bottom: 10px;
 
   border-radius: 15px;
 }
