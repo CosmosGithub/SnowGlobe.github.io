@@ -26,7 +26,7 @@ html, body {
 .mods{
   padding: 2%;
   
-  display: inline-grid;
+  display: grid;
   grid-template-columns: 30% 30% 30%;
   gap: 3%;
 }
