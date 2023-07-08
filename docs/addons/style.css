@@ -30,13 +30,13 @@ html, body {
 
   margin: auto;
   width: 50%;
-  padding: 10px;
+  padding: 0px;
 }
 
 .item {
   background-color:#101010;
   padding: 40px;
-  margin: 10px;
+  margin: 5px;
 
   border-radius: 15px;
 }
