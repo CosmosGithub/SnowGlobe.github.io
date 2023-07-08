@@ -28,7 +28,6 @@ html, body {
   
   display: inline-grid;
   grid-template-columns: 30% 30% 30%;
-  gap: 3%;
 }
 
 
