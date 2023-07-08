@@ -61,6 +61,7 @@ img {
 
 /* Add some padding inside the card container */
 .container {
+  border: 5px;
   background-color: #101010;
   color: #ffffff;
   padding: 2px 16px;
