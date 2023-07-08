@@ -36,6 +36,7 @@ html, body {
 .item {
   background-color:#101010;
   padding: 40px;
+  margin: 10px;
 
   border-radius: 15px;
 }
