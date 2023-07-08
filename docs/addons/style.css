@@ -28,7 +28,9 @@ html, body {
   text-align: center;
   width: 60%;
 
-  align-self: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 
 .recipe {
