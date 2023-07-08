@@ -1,0 +1,24 @@
+html, body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  font-family: "Monaco", monospace;
+  
+}
+.head{
+  background-color:#101010;
+  padding: 10px;
+}
+
+.title{
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 200%;
+}
+.subtitle{
+  color: #f0f0ff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 125%;
+}
