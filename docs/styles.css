@@ -24,13 +24,17 @@ html, body {
 }
 
 .mods{
-  padding: 20px;
+  padding: 2%;
   
   display: inline-grid;
   grid-template-columns: auto auto auto;
-  gap: 10px;
+  gap: 2%;
 }
 
+
+a{
+  text-decoration: none;
+}
 
 .card {
   /* Add shadows to create the "card" effect */
