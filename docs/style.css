@@ -36,14 +36,18 @@ a{
   text-decoration: none;
 }
 
-.card {
+.card div {
   /* Add shadows to create the "card" effect */
   background-color: #101010;
   /*box-shadow: 4px 4px 16px 1px rgba(255,255,255,0.2);*/
   transition: 0.3s;
   width: 100%;
 
-  border: 10px;
+  border: 5px;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
 }
 
 /* On mouse-over, add a deeper shadow */
