@@ -27,6 +27,8 @@ html, body {
 .body{
   text-align: center;
   width: 60%;
+
+  align-self: center;
 }
 
 .recipe {
