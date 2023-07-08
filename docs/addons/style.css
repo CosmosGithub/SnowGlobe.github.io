@@ -46,3 +46,9 @@ html, body {
   border: 10px #006000;
   border-radius: 10px;
 }
+
+a {
+  background-color: green;
+  border: 10px #006000;
+  border-radius: 10px;
+}
