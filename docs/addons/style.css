@@ -40,3 +40,9 @@ html, body {
 
   border-radius: 15px;
 }
+
+.download {
+  background-color: green;
+  border: 10px #006000;
+  border-radius: 10px;
+}
