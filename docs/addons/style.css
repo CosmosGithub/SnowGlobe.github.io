@@ -43,8 +43,11 @@ html, body {
 
 a {
   padding: 20px;
-  margin: 10px;
-  background-color: rgb(8, 0, 255);
-  border: 10px rgb(238, 255, 0);
+  margin: 0px;
+
+  width: 30px;
+  height: 15px;
+  
+  background-color: rgb(12, 178, 34);
   border-radius: 10px;
 }
