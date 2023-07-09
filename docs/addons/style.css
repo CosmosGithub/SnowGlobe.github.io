@@ -41,6 +41,10 @@ html, body {
   border-radius: 15px;
 }
 
+.downloads {
+  text-align: left;
+}
+
 a {
   text-decoration: none;
   color: #000000;
