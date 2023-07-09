@@ -45,9 +45,9 @@ a {
   padding: 20px;
   margin: 0px;
 
-  width: 30px;
-  height: 15px;
-  
-  background-color: rgb(12, 178, 34);
+  width: 10%;
+  height: 3%;
+
+  background-color: rgb(12, 178, 170);
   border-radius: 10px;
 }
