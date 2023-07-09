@@ -42,11 +42,8 @@ html, body {
 }
 
 a {
-  padding: 0px;
+  padding: 10px;
   margin: 0px;
-
-  width: 10%;
-  height: 3%;
 
   background-color: rgb(12, 15, 178);
   border-radius: 10px;
