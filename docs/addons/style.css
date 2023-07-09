@@ -42,12 +42,12 @@ html, body {
 }
 
 a {
-  padding: 20px;
+  padding: 0px;
   margin: 0px;
 
   width: 10%;
   height: 3%;
 
-  background-color: rgb(12, 178, 170);
+  background-color: rgb(12, 15, 178);
   border-radius: 10px;
 }
