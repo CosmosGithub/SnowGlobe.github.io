@@ -1,1 +1,1 @@
-# CosmosGithub.github.io
+# The offiCial repository for the Snowmod website.
