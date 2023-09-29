@@ -1,1 +1,1 @@
-# The offiCial repository for the Snowmod website.
+# The official repository for the Snowmod website.
